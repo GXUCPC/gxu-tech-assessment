@@ -15,7 +15,7 @@
 
 | 步骤 | 目标 | 关键截图 |
 |----|----|----|
-| 1️⃣ 打开 本仓库 | 截图下你github账户头像和该仓库 | ![cut](docs/img/1-cut.png) |
+| 1️⃣ Fork 本仓库 | 截图下你github账户头像和该仓库 | ![cut](docs/img/1-cut.png) |
 | 2️⃣ Clone 到本地 | 下载代码，准备改文件 | ![clone](docs/img/2-clone.png) |
 | 3️⃣ 新建分支 | 分支名格式 `add-名字拼音` | ![branch](docs/img/3-branch.png) |
 | 4️⃣ 写简历并提交 | 按模板或自定义写 `你的名字拼音.md`，`git push` | ![commit](docs/img/4-commit.png) |
