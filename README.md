@@ -1,4 +1,4 @@
-<img width="505" height="27" alt="image" src="https://github.com/user-attachments/assets/208f9c3f-c8c0-4abd-bbf5-761969ad362c" />
+
 # 📄 Gxu-Resume-Hub
 &gt; 技术组考核：用 Markdown 写一份「自我介绍简历」，并通过 Pull-Request 合并到主分支。
 
@@ -38,4 +38,4 @@
 - 技能：熟练使用cpp，熟练使用git，熟练骂人
 - 备注：写点能令技术组引起注意的特别点
 - GitHub：[https://github.com/lisi](https://github.com/lisi)
-- 编程/开发相关经历（没有可以不写）：参与xxxx项目/比赛，负责xxxx，开发/比赛内容xxxx
+
