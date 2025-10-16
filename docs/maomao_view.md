@@ -7,3 +7,5 @@
 - 技能：熟练使用cpp，熟练使用git，熟练骂人
 - 备注：写点能令技术组引起注意的特别点
 - GitHub：[https://github.com/lisi](https://github.com/lisi)
+
+# 我要往main里拉矢
