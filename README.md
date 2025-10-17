@@ -24,7 +24,7 @@
 | 2️⃣ Clone 到本地 | 下载代码，准备改文件 | ![clone](docs/2.png) |
 | 3️⃣ 新建分支 | 分支名格式 `add-名字拼音` | ![branch](docs/3.png) |
 | 4️⃣ 写简历并提交 | 按模板或自定义写 `你的名字拼音.md`，`git push` | ![commit](docs/4.png) |
-| 5️⃣ 发起 Pull Request | 填写 PR 标题+自述，等待合并 | ![pr](docs/img/5-pr.png) |
+| 5️⃣ 发起 Pull Request | 填写 PR 标题+自述，等待合并 | ![pr](docs/5.png) |
 
 
 **请注意，每一步的截图尽量清晰展示出是你个人操作，并且高亮出关键步骤。**
